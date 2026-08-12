@@ -1,5 +1,5 @@
 # ProjetoRPG
-Primeiro RPG em python, que fiz utilizando a base de 4 videos onde aprendi IF/DICT/listas/Variaveis/Input. É bem básico mas com ele pude aprender bastante e me divertir durante, além de que para que tudo funcionasse precisei buscar soluções diversas para demais erros que vinham surgindo...
+Primeiro RPG em python, que fiz utilizando a base de 4 videos onde aprendi IF/DICT/listas/Variaveis/Input/for. É bem básico mas com ele pude aprender bastante e me divertir durante, além de que para que tudo funcionasse precisei buscar soluções diversas para demais erros que vinham surgindo...
 
 Para que o jogo funcione tudo ok, abra o game em um terminal, ou evite abrir pelo console/output do vs code
 
