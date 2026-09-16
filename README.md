@@ -14,9 +14,12 @@ Esse projeto acabou virando a base para o [RPG Overworld 2](LINK),
 uma versão bem mais completa e reescrita com Programação Orientada a
 Objetos, banco de dados e um sistema de mundo muito mais profundo.
 
-## Como rodar
+## Como rodar versão .EXE
+Apenar baixar e abrir.
 
-Rode o jogo direto em um terminal (CMD, PowerShell, Git Bash).
+## Como rodar versão .py
+
+Rode  o jogo direto em um terminal (CMD, PowerShell, Git Bash).
 **Evite abrir pelo console/output integrado do VS Code** — o jogo
 pode não se comportar corretamente por lá.
 
